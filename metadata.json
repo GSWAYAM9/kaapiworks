@@ -1,0 +1,8 @@
+{
+  "name": "Kaapi Works - Specialty Coffee & Brewing Gear",
+  "description": "Artisanal specialty coffee roastery sourcing single-origin beans from Indian estates and precision brewing gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
