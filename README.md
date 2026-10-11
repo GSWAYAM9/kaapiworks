@@ -123,7 +123,7 @@ ADMIN_EMAIL= gswayam94@gmail.com
 ADMIN_PASSWORD= Swayam@1234
 
 CUSTOMER_NAME= Swayam Gupta
-CUSTOMER_EMAIL=gswayam949@gmail.com
+CUSTOMER_EMAIL= gswayam949@gmail.com
 CUSTOMER_PASSWORD= Swayam@1234
 
 # Cloudinary Storage
