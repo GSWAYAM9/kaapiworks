@@ -118,13 +118,13 @@ MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/kaapi_works
 JWT_SECRET=kaapi_works_super_secret_jwt_key_2026
 
 # Seed Script & Demo Accounts
-ADMIN_NAME="Kaapi Master Roaster (Admin)"
-ADMIN_EMAIL=admin@kaapiworks.in
-ADMIN_PASSWORD=KaapiAdmin@2026
+ADMIN_NAME= Swayam Gupta
+ADMIN_EMAIL= gswayam94@gmail.com
+ADMIN_PASSWORD= Swayam@1234
 
-CUSTOMER_NAME="Aarav Sharma"
-CUSTOMER_EMAIL=customer@kaapiworks.in
-CUSTOMER_PASSWORD=KaapiCustomer@2026
+CUSTOMER_NAME= Swayam Gupta
+CUSTOMER_EMAIL=gswayam949@gmail.com
+CUSTOMER_PASSWORD= Swayam@1234
 
 # Cloudinary Storage
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
